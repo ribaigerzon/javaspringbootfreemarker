@@ -1,4 +1,4 @@
-# java-springboot-freemarker
+# Java-Spring Boot-FreeMarker
 Ejercicio en Java, con MySQL, Spring Boot y Free Marker
 
 Se trata de una aplicación web sencilla, en desarrollo, en Java, JPA, y Spring Boot, para control de venta de productos físicos, con gestión de usuarios y órdenes de venta. Utiliza una base de datos en MySQL e interfaces de usuario en Free Marker, debido a su excelente integración co Spring Boot.
